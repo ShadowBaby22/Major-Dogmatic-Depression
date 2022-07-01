@@ -1,3 +1,11 @@
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color:lightcyan;
+    color: white;
+    margin-top: auto;
+  }
+
 *, *::before, *::after {
 
     box-sizing: boder-box;
@@ -40,6 +48,8 @@ body {
     color: white;
     outline: none;
 }
+
+
 
 .btn:hover {
     border-color: black;
